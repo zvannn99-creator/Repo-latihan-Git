@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
     const int N = 18;
-    int us[N] = {83, 70, 59, 45, 34, 22, 0, 231, 0, 215, 0, 23, 82, 71, 58, 0, 34, 22};
+    int us[N] = {83, 70, 59, 45, 34, 22, 0, 231, 0, 215, 0, 23, 82, 71, 58, 0,};
     int ir[N] = {0, 71, 57, 47, 35, 23, 0, 69, 58, 46, 33, 21, 0, 95, 0, 0, 88, 0};
 
     // T1: konstanta, toleransi, ambang keputusan
