@@ -1,5 +1,5 @@
-Kelompok ff
-Yama
-joji
-key
+Kelompok
+Yama,
+joji,
+key,
 eni
